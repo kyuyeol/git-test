@@ -1,0 +1,8 @@
+# macOS 메타데이터 파일
+._*
+
+# macOS 시스템 파일
+.DS_Store
+
+# 기타
+*.log
